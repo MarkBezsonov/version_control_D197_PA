@@ -1,0 +1,35 @@
+commit b244589cebe068fcaef460f4d147bd4150daeaa4
+Author: MarkBezsonov <74130817+MarkBezsonov@users.noreply.github.com>
+Date:   Wed Nov 29 00:40:26 2023 -0600
+
+    Replace Student ID with Git Version in README
+
+commit a141813bf6959b45b043362a2e7d4a4098b68fa3
+Author: MarkBezsonov <74130817+MarkBezsonov@users.noreply.github.com>
+Date:   Wed Nov 29 00:16:30 2023 -0600
+
+    Apologize for providing fake support number and add directions to guide users to actual support
+
+commit 16db7b1a0644aa2f1180170c5fffd8c00d10ff1a
+Author: MarkBezsonov <74130817+MarkBezsonov@users.noreply.github.com>
+Date:   Wed Nov 29 00:13:27 2023 -0600
+
+    Enhance the apple and orange options for the daily menu
+
+commit 2570f0910400222112584c370deb82fc641f4fdf
+Author: MarkBezsonov <74130817+MarkBezsonov@users.noreply.github.com>
+Date:   Wed Nov 29 00:07:44 2023 -0600
+
+    Add a secret fourth option to the list
+
+commit b8b23c49a9c4443dd4f9ea941f7dcafabd619d12
+Author: MarkBezsonov <74130817+MarkBezsonov@users.noreply.github.com>
+Date:   Wed Nov 29 00:04:51 2023 -0600
+
+    Add contact, home, and index pages
+
+commit c3d8f1d2fc146fe120f7c7acb2fee735fda74311
+Author: Mark Bezsonov <74130817+MarkBezsonov@users.noreply.github.com>
+Date:   Tue Nov 28 23:16:01 2023 -0600
+
+    Initial commit

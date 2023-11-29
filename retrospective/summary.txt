@@ -1,0 +1,15 @@
+Merge Conflict Resolution (Nov 29th 2023)
+-----------------------------------------
+Issue was resolved by overwriting the Student ID portion of the README.md file from the 'test' branch with the Git Version portion of the README.md
+file from the 'working' branch as this information better pertains to the project (the Student ID may also potentially be PII and thus a potential risk).
+
+--
+
+Improvement Revisions:
+----------------------
+- contact.html: Our team discussed the original comedic approach here and thought that our clients deserved some proper customer service in light of
+the company's growth. This page now renders both an apology as well as where clients can go in order to obtain help.
+- home.html: Added a fourth option to the list - more details pertaining to this decision will be disclosed in Q1 2024 but, for now, this option remains
+as a backlog item in order to build some suspense for our clients...
+- index.html: After numerous requests from clients, our product team decided to move forward with updating our edible offerings to match our popular 'Ahi
+Tuna Steak' offering. We expect this to increase site traffic by 13% in Q1 alone!
